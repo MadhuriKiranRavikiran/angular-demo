@@ -1,0 +1,14 @@
+.app-root-style {
+    border: 5px solid rgb(7, 175, 7);
+    margin: 2% 20%;
+    border-radius: 25px;
+}
+
+.app-root-style div {
+    margin: 20px;
+}
+
+.app-root-style h1 {
+    color: rgb(7, 175, 7);
+    padding-left: 10px;
+}
